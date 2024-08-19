@@ -1,0 +1,6 @@
+# vba-demo is venv folder for testing python script
+vba-demo/*
+# file for testing purpose
+result.xlsx
+.vscode/settings.json
+~$*.xlsm
